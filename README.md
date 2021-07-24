@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kukurt123
+- 👋 Hi, I’m Kurt! Thanks for visiting here.
 - 👀 I’m interested in Building Cross platform projects
 - 🌱 I’m currently learning dart,nestjs,graphql & nodejs
-- 📫 you may contact me on my fb account Kurt Ruzell Maghari Estacion
 
 <!---
 kukurt123/kukurt123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
